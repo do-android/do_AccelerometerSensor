@@ -1,0 +1,10 @@
+*.class
+*.apk
+bin/
+gen/
+.settings/
+proguard/
+*.classpath
+/doExt_do_AccelerometerSensor/do_AccelerometerSensor.zip
+/doExt_do_AccelerometerSensor/do_build.xml
+/doExt_do_AccelerometerSensor/libs/docore.jar
